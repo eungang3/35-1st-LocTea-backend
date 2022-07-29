@@ -112,6 +112,11 @@ https://charmed-skirt-18c.notion.site/API-ad9f438727804f96bec469adebec53cd
 
 ## 8. 시연 영상
 https://youtu.be/grWXHlKwkyY
+![화면_기록_2022-07-29_오후_5_14_33_AdobeExpress](https://user-images.githubusercontent.com/47664802/181733563-7fb259e5-dbbb-4abd-a0b2-e7489a2d12c5.gif)
+
+![화면_기록_2022-07-29_오후_5_21_28_AdobeExpress](https://user-images.githubusercontent.com/47664802/181733660-82cd1f41-bc9a-4e52-b7ef-6c7dfc81c7db.gif)
+
+
 
 <br>
 
