@@ -38,7 +38,13 @@
 
 <br>
 
-## 6.1 내 역할 - 상품 목록 API 제작
+## 6. API 명세서
+https://charmed-skirt-18c.notion.site/API-ad9f438727804f96bec469adebec53cd
+
+<br>
+
+## 7.1 내 역할 - 상품 목록 API 제작
+
 ### 구현 사항
 - 엔드포인트 : /products/list
 - 카테고리 필터, 티 타입별 필터, sorting 구현
@@ -61,7 +67,7 @@
 
 <br>
 
-## 6.2 내 역할 - 상품 상세 API 제작
+## 7.2 내 역할 - 상품 상세 API 제작
 
 ### 구현 사항
 - 엔드포인트 /products/product_id로 요청받습니다.
@@ -82,7 +88,7 @@
 
 <br>
 
-## 6.3 내 역할 - 카테고리 API 제작
+## 7.3 내 역할 - 카테고리 API 제작
 
 ### 구현 사항
 - 엔드포인트 /categories로 요청받습니다.
@@ -98,15 +104,14 @@
 <br>
 
 
-## 7. 시연 영상
+## 8. 시연 영상
 
 
 <br>
 
-## 8. DB 모델링
+## 9. DB 모델링
 <img width="870" alt="스크린샷 2022-07-29 오후 5 02 46" src="https://user-images.githubusercontent.com/47664802/181713475-dec250ca-5c97-4223-9abf-932c85ef3fef.png">
 
 <br>
 
-## 9. API 명세서
-https://charmed-skirt-18c.notion.site/API-ad9f438727804f96bec469adebec53cd
+
