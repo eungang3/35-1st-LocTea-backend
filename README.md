@@ -47,10 +47,6 @@ https://charmed-skirt-18c.notion.site/API-ad9f438727804f96bec469adebec53cd
 https://youtu.be/grWXHlKwkyY
 
 <br>
-![화면_기록_2022-07-29_오후_5_14_33_AdobeExpress](https://user-images.githubusercontent.com/47664802/181733563-7fb259e5-dbbb-4abd-a0b2-e7489a2d12c5.gif)
-
-
-<br>
 
 ## 8.1 내 역할 - 상품 목록 API 제작
 
@@ -127,7 +123,5 @@ https://youtu.be/grWXHlKwkyY
 
 ## 9. DB 모델링
 <img width="870" alt="스크린샷 2022-07-29 오후 5 02 46" src="https://user-images.githubusercontent.com/47664802/181713475-dec250ca-5c97-4223-9abf-932c85ef3fef.png">
-
-<br>
 
 
