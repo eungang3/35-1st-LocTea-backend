@@ -111,7 +111,7 @@ https://charmed-skirt-18c.notion.site/API-ad9f438727804f96bec469adebec53cd
 
 
 ## 8. 시연 영상
-
+https://youtu.be/grWXHlKwkyY
 
 <br>
 
