@@ -1,6 +1,7 @@
 # 록차 Loctea (위코드 35기 1차 프로젝트)
 - 록차는 오설록 쇼핑몰을 클론코딩한 프로젝트입니다. 
 - 개발에 집중하기 위해 기획, 디자인은 참고하고 기능은 직접 구현하였습니다.
+- 링크 : http://1st-loctea.s3-website.ap-northeast-2.amazonaws.com/
 
 <br>
 
