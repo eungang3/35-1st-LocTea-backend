@@ -33,7 +33,7 @@
 
 ## 5. 백엔드 기술 스택
 - Back-end : Python, Django, JWT, Bcrypt, Miniconda
-- Database : dbdiagram.io, MySQL
+- Database : MySQL
 - HTTP : Postman
 - Common : Trello, Slack, Git & Github
 
